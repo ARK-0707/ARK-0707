@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Harshit, a full-time full-stack developer 👨‍💻 working remotely since 2023. 🚀</div>  
+### <div align="center"><h1>I'm Harshit, a full-time full-stack developer 👨‍💻 working remotely since 2023. 🚀</h1></div>  
   
 
 - 🔭 I’m currently working on [Weather App](https://github.com/ARK-0707/Weather-App)  
