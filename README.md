@@ -1,3 +1,6 @@
+![6](https://github.com/ARK-0707/ARK-0707/assets/99702100/24d27c95-9fb8-4ee8-b99a-a12fd906f485)
+
+
 ### <div align="center"><h1>I'm Harshit, a full-time full-stack developer 👨‍💻 working remotely since 2023. 🚀</h1></div>  
   
 
